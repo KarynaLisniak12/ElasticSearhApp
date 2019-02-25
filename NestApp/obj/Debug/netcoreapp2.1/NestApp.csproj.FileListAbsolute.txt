@@ -1,0 +1,14 @@
+C:\Users\Anuitex\Desktop\NestApp\NestApp\bin\Debug\netcoreapp2.1\NestApp.deps.json
+C:\Users\Anuitex\Desktop\NestApp\NestApp\bin\Debug\netcoreapp2.1\NestApp.runtimeconfig.json
+C:\Users\Anuitex\Desktop\NestApp\NestApp\bin\Debug\netcoreapp2.1\NestApp.runtimeconfig.dev.json
+C:\Users\Anuitex\Desktop\NestApp\NestApp\bin\Debug\netcoreapp2.1\NestApp.dll
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.csprojAssemblyReference.cache
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.RazorAssemblyInfo.cache
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.RazorAssemblyInfo.cs
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.AssemblyInfoInputs.cache
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.AssemblyInfo.cs
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.RazorTargetAssemblyInfo.cache
+C:\Users\Anuitex\Desktop\NestApp\NestApp\bin\Debug\netcoreapp2.1\NestApp.pdb
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.dll
+C:\Users\Anuitex\Desktop\NestApp\NestApp\obj\Debug\netcoreapp2.1\NestApp.pdb
