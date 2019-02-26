@@ -2887,6 +2887,19 @@
           }
         }
       },
+      "SqlTableDependency/8.5.3": {
+        "type": "package",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.4.0",
+          "System.Data.SqlClient": "4.3.0"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/TableDependency.SqlClient.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/TableDependency.SqlClient.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -7454,6 +7467,21 @@
         "version.txt"
       ]
     },
+    "SqlTableDependency/8.5.3": {
+      "sha512": "FLBJUMPghAUKRoF7GGLfFtgawLej7zQ+J+yeyxLLrOgTlWZTMueAIJSHDCKCMzPoM3q5l+MGpjYTsDh4Wx/LMg==",
+      "type": "package",
+      "path": "sqltabledependency/8.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ReadMe.txt",
+        "lib/net451/TableDependency.SqlClient.dll",
+        "lib/netcoreapp2.0/TableDependency.SqlClient.dll",
+        "lib/netstandard2.0/TableDependency.SqlClient.dll",
+        "sqltabledependency.8.5.3.nupkg.sha512",
+        "sqltabledependency.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -11862,7 +11890,8 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Nest >= 6.5.0"
+      "Nest >= 6.5.0",
+      "SqlTableDependency >= 8.5.3"
     ]
   },
   "packageFolders": {
@@ -11925,6 +11954,10 @@
           "Nest": {
             "target": "Package",
             "version": "[6.5.0, )"
+          },
+          "SqlTableDependency": {
+            "target": "Package",
+            "version": "[8.5.3, )"
           }
         },
         "imports": [

@@ -12,6 +12,7 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Nest" Version="6.5.0" />
+    <PackageReference Include="SqlTableDependency" Version="8.5.3" />
   </ItemGroup>
 
 </Project>

@@ -12,7 +12,7 @@ namespace NestApp.Controllers
         public ActionResult<IEnumerable<string>> Get()
         {
             var configurator = new ElasticSearchConfigurator();
-            configurator.SearchByName("Polly");
+            configurator.SearchByTitle("orange");
 
             //Person person = new Person()
             //{

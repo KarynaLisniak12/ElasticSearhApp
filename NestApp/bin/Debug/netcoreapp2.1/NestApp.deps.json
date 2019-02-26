@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "1371167b6d90cac32d6927deb9251cb8f641c9d9"
+    "signature": "f4b22232c11141ec8e858dcdf2a2fa17e1a2d84e"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,8 @@
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
-          "NEST": "6.5.0"
+          "NEST": "6.5.0",
+          "SqlTableDependency": "8.5.3"
         },
         "runtime": {
           "NestApp.dll": {}
@@ -231,6 +232,21 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "SqlTableDependency/8.5.3": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.5.0",
+          "System.Data.SqlClient": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/TableDependency.SqlClient.dll": {
+            "assemblyVersion": "8.5.3.0",
+            "fileVersion": "8.5.3.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp2.0/TableDependency.SqlClient.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3250,6 +3266,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "SqlTableDependency/8.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FLBJUMPghAUKRoF7GGLfFtgawLej7zQ+J+yeyxLLrOgTlWZTMueAIJSHDCKCMzPoM3q5l+MGpjYTsDh4Wx/LMg==",
+      "path": "sqltabledependency/8.5.3",
+      "hashPath": "sqltabledependency.8.5.3.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
